@@ -1,6 +1,6 @@
 ﻿namespace AdditionalTask_7_1
 {
-    internal class Program
+    internal class AT_7_1
     {
         static void ArrayFilling(int[,] massNum)
         {
